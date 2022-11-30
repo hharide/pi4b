@@ -1,0 +1,14 @@
+{
+"clientes" : [
+        {"cliente_id":"000001", "nome":"Juliana Silva", "endereco":"Avenida Bento Gonçalves, 100", "cep":"12345-00", 
+        "dataNasc":"10/01/1990", "telefone":"991456927"},
+        {"cliente_id":"000002", "nome":"Maria Matos", "endereco":"Rua das Flores, 1769", "cep":"32445-30", 
+        "dataNasc":"31/12/2001", "telefone":"984020001"},
+        {"cliente_id":"000003", "nome":"Julio Souza", "endereco":"Avenida Santos Dummont, 2960", "cep":"52395-01", 
+        "dataNasc":"15/03/1987", "telefone":"981100659"},
+        {"cliente_id":"000004", "nome":"Gustavo Monteiro", "endereco":"Rua Santa Cruz, 1007", "cep":"12345-24", 
+        "dataNasc":"11/09/1990", "telefone":"981061002"},
+        {"cliente_id":"000005", "nome":"Amanda Rodrigues", "endereco":"Rua Voluntários da Pátria, 890", "cep":"12447-08", 
+        "dataNasc":"28/08/1990", "telefone":"984623984"}
+    ]
+}
